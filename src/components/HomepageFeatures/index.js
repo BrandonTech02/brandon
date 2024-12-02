@@ -23,7 +23,7 @@ const FeatureList = [
       </>
     ),
   },
-  {
+  /*{
     title: 'Powered by React',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
@@ -32,7 +32,7 @@ const FeatureList = [
         be extended while reusing the same header and footer.
       </>
     ),
-  },
+  },*/
 ];
 
 function Feature({Svg, title, description}) {
