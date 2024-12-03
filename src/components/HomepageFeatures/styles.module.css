@@ -8,5 +8,10 @@
 .featureSvg {
   height: 200px;
   width: 200px;
-  margin: 0 auto;
+}
+
+.featureWrapper{
+  display: flex;
+  justify-content: center;
+  width: 0 auto;
 }
