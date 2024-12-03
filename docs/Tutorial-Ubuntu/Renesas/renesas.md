@@ -139,7 +139,6 @@ Next, run the following command to build the weston image.
 MACHINE=smarc-rzg2l bitbake core-image-weston
 ```
 
-## GStreamer
 Add these lines of code into the `local.conf` located inside the **/rzg/build/conf/local.conf**
 ```bash
 QT_DEMO = "1"
