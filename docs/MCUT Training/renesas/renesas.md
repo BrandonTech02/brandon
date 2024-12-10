@@ -2,8 +2,10 @@
 sidebar_position: 2
 ---
 
+import styles from "../css/styles.module.css";
+
 # Renesas RZ/G2L
-## About
+<h2 className={styles.heading}>About</h2>
 This is an embedded system that has low power consumption. Various products can be developed based on this embedded system.
 
 ## Board Setup
