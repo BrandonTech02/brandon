@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Brandon's Site",
-  tagline: 'Never stop learning',
+  tagline: "Let's get started",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
