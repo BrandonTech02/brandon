@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+title: 3-1 Introduction
+---
+
 # Introduction
 
 ## GStreamer Framework
@@ -18,3 +23,5 @@
 - The main objective is to implement MOIL image processing technology on the Renesas RZ/G2L.
 - Enable image streaming over a network.
 - Facilitate further system development on a PC or other hardware environments.
+
+

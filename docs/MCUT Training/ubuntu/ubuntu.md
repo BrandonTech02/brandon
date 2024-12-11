@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+title: 1-2 Setting up Ubuntu 
 ---
 
-# Settings up Ubuntu
+# Settings up Ubuntu OS
 **Step 1**: Download the Ubuntu Operating System **v22.04** from the official website. [Ubuntu](https://mirror.twds.com.tw/ubuntu-releases/) Offical Site.
 ![Ubuntu download](../img/Ubuntu_download.PNG)
 

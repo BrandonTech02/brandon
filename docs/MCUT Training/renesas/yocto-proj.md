@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+title: 2-3 Yocto Project Build
 ---
 
 # Yocto Project Build

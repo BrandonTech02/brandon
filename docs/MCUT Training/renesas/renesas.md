@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: 2-2 Renesas RZ/G2L
 ---
 
 import styles from "../css/styles.module.css";
