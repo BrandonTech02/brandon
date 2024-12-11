@@ -90,7 +90,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/BrandonTech02/my-demo.git',
+            href: 'https://github.com/BrandonTech02/brandon.git',
             label: 'GitHub',
             position: 'right',
           },
