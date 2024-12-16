@@ -146,7 +146,7 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-    scripts: [
+    /*scripts: [
       // String format.
       "https://docusaurus.io/script.js",
       // Object format.
@@ -154,7 +154,7 @@ const config = {
         src: "https://app.embed.im/snow.js",
         defer: true,
       },
-    ],
+    ],*/
 };
 
 export default config;

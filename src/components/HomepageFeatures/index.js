@@ -12,7 +12,7 @@ const FeatureList = [
         used to get your website up and running quickly.
       </>
     ),
-  },*/
+  },
   {
     title: 'Focus on What Matters',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
@@ -23,7 +23,7 @@ const FeatureList = [
       </>
     ),
   },
-  /*{
+  {
     title: 'Powered by React',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
@@ -35,7 +35,7 @@ const FeatureList = [
   },*/
 ];
 
-function Feature({Svg, title, description}) {
+/*function Feature({Svg, title, description}) {
   return (
     <div className={styles.featureWrapper}>
       <div className={clsx('col col--4')}>
@@ -49,7 +49,8 @@ function Feature({Svg, title, description}) {
       </div>
     </div>
   );
-}
+}*/
+
 
 export default function HomepageFeatures() {
   return (
