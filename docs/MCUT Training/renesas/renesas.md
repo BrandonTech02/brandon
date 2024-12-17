@@ -6,7 +6,7 @@ title: 2-2 Renesas RZ/G2L
 import styles from "../css/styles.module.css";
 
 # Renesas RZ/G2L
-About
+## About
 This is an embedded system that has low power consumption. Various products can be developed based on this embedded system.
 
 ## Board Setup
