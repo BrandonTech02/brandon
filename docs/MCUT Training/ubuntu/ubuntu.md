@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: 1-2 Setting up Ubuntu 
+title: 1-1 Setting up Ubuntu 
 ---
 
 # Settings up Ubuntu OS

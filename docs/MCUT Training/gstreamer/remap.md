@@ -12,7 +12,7 @@ For two sets A and B, the mapping function is
 
 for every element *b* in *B*, *b = f(a)*, f is the mapping function
 
-For image mapping, it is denoted as
+The image mapping is denoted as,
 ```
 g(x,y) = f(h(x,y))
 ``` 
@@ -23,6 +23,4 @@ g(x,y) = f(h(x,y))
 ## Moil Image Generator
 The **Moil Image Generator** website offer an online interface that we can get the X,Y map files used on GStreamer command.
 
-First, input the camera settings and any additional parameters. Then, press the "Start" button to begin the generation process. A zip file will be downloaded; click "Keep" when the browser prompts a security warning. Decompress the zip file before use. If you generate maps other than Equirectangular, rename them to EquimatX and EquimatY before using them with the Gstreamer command.
-
-The website URL: http://140.112.12.82/moilmapgen
+The website URL: http://140.112.12.82/moilmapgen/

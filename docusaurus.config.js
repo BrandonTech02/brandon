@@ -160,6 +160,10 @@ const config = {
         defer: true,
       },
     ],*/
+    markdown: {
+      mermaid: true,
+    },
+    themes: ['@docusaurus/theme-mermaid'],
 };
 
 export default config;

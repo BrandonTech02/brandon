@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: 1-1 Setting up software on Ubuntu
+title: 1-2 Setting up software on Ubuntu
 ---
 
 # Setting up software on Ubuntu
