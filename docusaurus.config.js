@@ -78,6 +78,15 @@ const config = {
           autoCollapseCategories: true,
         },
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'YYZJNHHPMD',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '93c2eb720b55d7038bcafeb1a7fcd0ef',
+  
+        indexName: 'brandontech02io',
+      },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {

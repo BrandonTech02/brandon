@@ -36,9 +36,9 @@ git push
 
 Get the commit ID from the the [Github Page](https://github.com/yourskc/gst-plugins-bad/tree/RCAR-GEN3/1.6.3).
 
-The previous in section 3-3 is build with **Meson Build**, while this project is build with **GNU Automake**
+The previous project in section 3-3 is build with **Meson Build**, while this project is build with **GNU Automake**
 
-The build commamds are shown below:
+The build commands are shown below:
 ```bash
 ./autogen.sh
 make
