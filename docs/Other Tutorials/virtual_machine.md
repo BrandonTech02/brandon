@@ -60,7 +60,7 @@ A virtual machine (VM) is a software emulation of a physical computer. VMs allow
 
 :::
 
-Click **Next** after all the settings are satisfied.
+Click **Finish** after all the settings are satisfied.
 
 ## Step 6: Start the Virtual Machine
 In Virtual Box, select the VM that you just created and click **Start**.
