@@ -36,6 +36,29 @@ const config = {
     locales: ['en'],
   },
 
+  headTags: [
+    {
+      tagName: "link",
+      attributes: {
+        rel: "preload",
+        href: "static/fonts/Hubot-Sans.woff2",
+        as: "font",
+        type: "font/woff2",
+        crossorigin: "anonymous",
+      },
+    },
+    {
+      tagName: "link",
+      attributes: {
+        rel: "preload",
+        href: "static/fonts/Mono-Sans.woff2",
+        as: "font",
+        type: "font/woff2",
+        crossorigin: "anonymous",
+      },
+    },
+  ],
+
   presets: [
     [
       'classic',
@@ -75,6 +98,7 @@ const config = {
     ({
       docs: {
         sidebar: {
+          hideable: true,
           autoCollapseCategories: true,
         },
       },
